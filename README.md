@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @noorokhan
+- 👋 Hi, I’m @noorunnisakhan
 - 👀 I’m interested in web development and exploring the world of Python and Django.
 - 🌱 I’m currently learning Django to build dynamic web applications, and improving my skills with Python.
 - 💞️ I’m looking to collaborate on beginner-friendly Django projects and anything related to web development.
